@@ -1,0 +1,17 @@
+1. Tell Me about Yourself:
+"Hello, everyone! My name is Kalpesh Hirdekar, and I am thrilled to share a bit about myself. I am currently persuing PG-DAC course. My journey has been a mix of diverse experiences, from Mechanical Design Engineer to Programming journey. I am passionate about experimenting with coding and staying updated on the latest advancements. In addition to that, during my bachelor degree academics, I completed two interships and after that I worked as a junior design engineer for Elder Equipment Pvt Ltd. I am excited to bring my skills and enthusiasm to the programming world and contribute to IT industry."
+
+2. Your Hobbies:
+"Outside of my academic and professional pursuits, I find joy and satisfaction in a variety of hobbies. I am an avid travelling, exploring new places. I also enjoy [mention another hobby or interest] because it allows me to [talk about how this activity contributes to your well-being or growth]. These hobbies not only bring balance to my life but also teach me valuable lessons that I can apply in my academic and professional journey."
+
+3. Something Unique about Yourself:
+"One unique aspect about me is I can visualise things much easier and efficiently. This trait has played a significant role in shaping my experiences, such as designing machines. I believe that this uniqueness allows me to bring a fresh perspective to challenges and fosters creativity in my approach. Embracing diversity and individuality is something I value, and it has undoubtedly influenced the way I visualise the concepts."
+
+4. Your Strengths and Weaknesses:
+"One of my key strengths is [mention a strength relevant to the position or field]. I excel in [give an example of how this strength has been beneficial]. Another strength of mine is [mention another relevant strength]. However, I am continuously working on improving my [mention a weakness], which I believe is essential for personal and professional growth. I am actively taking steps to [briefly discuss how you are addressing this weakness] and am confident that this journey will contribute to my overall development."
+
+5. Why IT:
+"I am truly passionate about Information Technology because [talk about what drew you to IT]. The dynamic nature of this field excites me, and I am fascinated by [mention a specific aspect or technology]. I believe that IT has the power to [discuss the impact of IT on the world or society]. My enthusiasm stems from the endless possibilities for innovation and problem-solving that IT offers, and I am eager to contribute to this ever-evolving landscape."
+
+6. Where do you see Yourself 3 Years from Now:
+"In the next three years, I envision myself [talk about your aspirations and goals]. I am committed to [mention a specific professional or personal goal]. I see myself [talk about how you plan to contribute to your team or organization]. As I progress in my career, I am excited to [mention any skills or knowledge you hope to acquire]. Overall, I am dedicated to continuous learning and growth, and I am confident that these efforts will lead me to [mention a broader career goal]."
